@@ -3,7 +3,7 @@
 <html>
 	<head>
 		<title>
-				David Kenny-Vaughan | CV
+				<h1></h1>David Kenny-Vaughan | CV</title>h1>
 		</title>
 		<link rel="stylesheet" type="text/css" href="stylesheet/style.css"/>
 	</head>
