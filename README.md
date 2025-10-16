@@ -1,9 +1,9 @@
 # Github.io David Kenny-Vaughan
 <!DOCTYPE html>
 <html>
-	<head>
+	<head>		
 		<title>
-				<h1></h1>David Kenny-Vaughan | CV</title>h1>
+			David Kenny-Vaughan | CV
 		</title>
 		<link rel="stylesheet" type="text/css" href="stylesheet/style.css"/>
 	</head>
